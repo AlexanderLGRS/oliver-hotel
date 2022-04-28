@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #d5d6d8;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}

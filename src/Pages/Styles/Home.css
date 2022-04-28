@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.mainBtn a {
+    color: white;
+}
+
+.container {
+    padding: 20px;
+}
