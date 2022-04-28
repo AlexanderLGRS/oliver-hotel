@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/OliversHotel/static/css/main.6bde9a0c.css",
-    "main.js": "/OliversHotel/static/js/main.37a63dec.js",
+    "main.js": "/OliversHotel/static/js/main.850492b6.js",
     "static/js/787.30aa89ac.chunk.js": "/OliversHotel/static/js/787.30aa89ac.chunk.js",
     "static/media/Logo.jpg": "/OliversHotel/static/media/Logo.81913518a1cbf927f9be.jpg",
     "index.html": "/OliversHotel/index.html",
     "main.6bde9a0c.css.map": "/OliversHotel/static/css/main.6bde9a0c.css.map",
-    "main.37a63dec.js.map": "/OliversHotel/static/js/main.37a63dec.js.map",
+    "main.850492b6.js.map": "/OliversHotel/static/js/main.850492b6.js.map",
     "787.30aa89ac.chunk.js.map": "/OliversHotel/static/js/787.30aa89ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bde9a0c.css",
-    "static/js/main.37a63dec.js"
+    "static/js/main.850492b6.js"
   ]
 }
