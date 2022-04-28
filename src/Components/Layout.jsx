@@ -7,7 +7,7 @@ export default function Layout(props) {
         <React.Fragment>
             <nav className="navbar">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="/">
+                    <a className="navbar-brand" href="/OliversHotel">
                         <img src={logo} alt="logo" className="logo" />
                         Oliver's Hotel
                     </a>
@@ -16,7 +16,7 @@ export default function Layout(props) {
             {props.children}
             <footer className="navbar  footer">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="/">
+                    <a className="navbar-brand" href="/OliversHotel">
                         Footer
                     </a>
                 </div>

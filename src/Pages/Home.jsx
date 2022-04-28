@@ -7,7 +7,7 @@ export default function Home() {
         <React.Fragment>
             <div className="container">
                 <button className="btn mainBtn btn-dark">
-                    <Link to="/roomManager">Select rooms</Link>
+                    <Link to="/OliversHotel/roomManager">Select rooms</Link>
                 </button>
             </div>
         </React.Fragment>
