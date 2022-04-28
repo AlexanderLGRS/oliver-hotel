@@ -1,3 +1,11 @@
+.navbar-brand {
+    color: black;
+}
+
+.navbar-brand:hover {
+    color: black;
+}
+
 .navbar {
     background-color: #d5d6d8;
     color: black;
