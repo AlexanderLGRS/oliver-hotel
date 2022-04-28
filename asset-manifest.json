@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/OliversHotel/static/css/main.6bde9a0c.css",
-    "main.js": "/OliversHotel/static/js/main.850492b6.js",
+    "main.css": "/OliversHotel/static/css/main.4535886b.css",
+    "main.js": "/OliversHotel/static/js/main.fcc8954d.js",
     "static/js/787.30aa89ac.chunk.js": "/OliversHotel/static/js/787.30aa89ac.chunk.js",
+    "static/media/pic5.jpg": "/OliversHotel/static/media/pic5.6c325cf8781646875854.jpg",
+    "static/media/pic4.jpg": "/OliversHotel/static/media/pic4.31faf58760216f87f7fc.jpg",
+    "static/media/pic6.jpg": "/OliversHotel/static/media/pic6.0f57cdf9ff211e8012b4.jpg",
+    "static/media/pic3.jpg": "/OliversHotel/static/media/pic3.4a3d371224d88c907c16.jpg",
+    "static/media/pic2.jpg": "/OliversHotel/static/media/pic2.efb74d87af8d77e3d1e5.jpg",
+    "static/media/pic1.jpg": "/OliversHotel/static/media/pic1.c350483c27cd8d781400.jpg",
     "static/media/Logo.jpg": "/OliversHotel/static/media/Logo.81913518a1cbf927f9be.jpg",
     "index.html": "/OliversHotel/index.html",
-    "main.6bde9a0c.css.map": "/OliversHotel/static/css/main.6bde9a0c.css.map",
-    "main.850492b6.js.map": "/OliversHotel/static/js/main.850492b6.js.map",
+    "main.4535886b.css.map": "/OliversHotel/static/css/main.4535886b.css.map",
+    "main.fcc8954d.js.map": "/OliversHotel/static/js/main.fcc8954d.js.map",
     "787.30aa89ac.chunk.js.map": "/OliversHotel/static/js/787.30aa89ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bde9a0c.css",
-    "static/js/main.850492b6.js"
+    "static/css/main.4535886b.css",
+    "static/js/main.fcc8954d.js"
   ]
 }
